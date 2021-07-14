@@ -2,4 +2,4 @@
 my notes
 
 ### idea github token
-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
+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
